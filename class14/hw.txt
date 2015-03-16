@@ -1,0 +1,2 @@
+group: Nick, Klajdi, Adam
+Github repo: https://github.com/nolds9/nak_app
